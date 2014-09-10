@@ -1,0 +1,21 @@
+{
+	"globals": {
+		"describe": false,
+		"it": false,
+		"before": false,
+		"beforeEach": false,
+		"after": false,
+		"afterEach": false,
+		"expect": false,
+		"sinon": false
+	},
+	"camelcase": true,
+	"curly": true,
+	"smarttabs": true,
+	"trailing": true,
+	"undef": true,
+	"unused": true,
+	"expr": true,
+	"node": true,
+	"sub": true
+}
