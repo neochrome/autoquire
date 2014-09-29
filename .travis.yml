@@ -8,6 +8,6 @@ deploy:
   provider: npm
   email: johan@stenqvist.net
   api_key:
-    secure: JfYLuizC7f+scbVfot+OO0lJon0rzDhD9LiXginFD5ttW80vp29uAQYfRLXuRKPX8OkGYGHWdDKi905AscQFO+CKPacpfUPLl5ev5gAqv4EAPxG9FYkDW0mJhMc4A/QaEGwctOBptNgORemvTtSXGBrOsT3KNNpKUTpG1hHaNIE              on:
+    secure: JfYLuizC7f+scbVfot+OO0lJon0rzDhD9LiXginFD5ttW80vp29uAQYfRLXuRKPX8OkGYGHWdDKi905AscQFO+CKPacpfUPLl5ev5gAqv4EAPxG9FYkDW0mJhMc4A/QaEGwctOBptNgORemvTtSXGBrOsT3KNNpKUTpG1hHaNIE
   on:
     tags: true
