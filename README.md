@@ -4,7 +4,7 @@
 No frills dependent module requiring for nodejs
 
 ## Requirements
-Autoquire is tested with versions 0.8.x, 0.9.x, 0.10.x and 0.11.x of [Nodejs](http://nodejs.org).
+Autoquire is tested with versions 0.10.x and 0.11.x of [Nodejs](http://nodejs.org).
 
 ## Installation
 
